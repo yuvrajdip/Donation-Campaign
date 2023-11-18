@@ -1,0 +1,136 @@
+{
+  "data":[
+    {
+      "id": 1 ,
+      "category": "Health",
+      "image": "https://i.ibb.co/KGznr4w/Health.png",
+      "title": "Clean Water For Children",
+      "description": "Good health is the foundation of a fulfilling life. It is a precious asset that allows us to enjoy each moment to the fullest. When we prioritize our health, we invest in our well-being, vitality, and longevity. It's a simple yet profound truth: good health is the key to a happier and more vibrant existence.",
+      "price": 49.99,
+      "text_color" : "#0052FF",
+      "button_bg": "rgba(0, 82, 255, 0.20)",
+      "card_bg": "rgba(0, 82, 255, 0.15)"
+    },
+    {
+      "id": 2,
+      "category": "Education",
+      "image": "https://i.ibb.co/k3CYjgm/Education.png",
+      "title": "Good Education",
+      "description": "Education is a powerful tool that shapes individuals, societies, and the world at large. It is often said that education is the key to success, and this statement holds true on many levels. A good education goes beyond the classroom, textbooks, and examinations; it is a lifelong journey that empowers individuals and transforms communities. Here, we explore the profound impact of good education.",
+      "price": 199.99,
+      "text_color": "#FF444A",
+      "button_bg": "rgba(255, 68, 74, 0.20)",
+      "card_bg": "rgba(255, 68, 74, 0.15)"
+    },
+    {
+      "id": 3,
+      "category": "Clothing",
+      "image": "https://i.ibb.co/xg6BWZL/Clothing.png",
+      "title": "Used Clothing Drive",
+      "description": "Clothing is more than just fabric draped on our bodies; it's a form of self-expression. From the simplest t-shirt to the most elegant gown, what we wear tells a story about who we are and how we want to be seen. Beyond style, clothing provides comfort, protection, and warmth, making it an essential part of our daily lives. In its essence, clothing is a reflection of our individuality and a testament to our creativity, allowing us to communicate without words.",
+      "price": 129.99,
+      "text_color": "#79C23F",
+      "button_bg": "rgba(121, 194, 63, 0.20)",
+      "card_bg" : "rgba(121, 194, 63, 0.15)"
+    },
+    {
+      "id" : 4,
+      "category": "Food",
+      "image": "https://i.ibb.co/JKbw2y9/Food.png",
+      "title": "Better Food for Everyone",
+      "price": 19.99,
+      "description" : "Food is the sustenance of life, fulfilling not only our physical needs but also nurturing our souls. It's a universal language that brings people together, transcending borders and cultures. Beyond its role as fuel for our bodies, food is a source of joy, comfort, and celebration. Whether it's a home-cooked meal shared with loved ones or a culinary adventure exploring new flavors, food has the power to create memorable experiences. In its simplest form, food is a reminder of our shared humanity and the pleasure of being alive.",
+      "text_color": "#F87147",
+      "button_bg": "rgba(248, 113, 71, 0.20)",
+      "card_bg": "rgba(248, 113, 71, 0.15)"
+    },
+    {
+      "id" : 5,
+      "category": "Food",
+      "image": "https://i.ibb.co/JKbw2y9/Food.png",
+      "title": "Better Food for Everyone",
+      "description": "Food is the sustenance of life, fulfilling not only our physical needs but also nurturing our souls. It's a universal language that brings people together, transcending borders and cultures. Beyond its role as fuel for our bodies, food is a source of joy, comfort, and celebration. Whether it's a home-cooked meal shared with loved ones or a culinary adventure exploring new flavors, food has the power to create memorable experiences. In its simplest form, food is a reminder of our shared humanity and the pleasure of being alive.",
+      "price": 19.99,
+      "text_color": "#F87147",
+      "button_bg": "rgba(248, 113, 71, 0.20)",
+      "card_bg": "rgba(248, 113, 71, 0.15)"
+    },
+    {
+      "id" : 6 ,
+      "category": "Clothing",
+      "image": "https://i.ibb.co/xg6BWZL/Clothing.png",
+      "title": "Used CLothing Drive",
+      "description": "Clothing is more than just fabric draped on our bodies; it's a form of self-expression. From the simplest t-shirt to the most elegant gown, what we wear tells a story about who we are and how we want to be seen. Beyond style, clothing provides comfort, protection, and warmth, making it an essential part of our daily lives. In its essence, clothing is a reflection of our individuality and a testament to our creativity, allowing us to communicate without words.",
+      "price": 129.99,
+      "text_color": "#79C23F",
+      "button_bg": "rgba(121, 194, 63, 0.20)",
+      "card_bg" : "rgba(121, 194, 63, 0.15)"
+    },
+    {
+      "id" : 7 , 
+      "category": "Education",
+      "image": "https://i.ibb.co/k3CYjgm/Education.png",
+      "title": "Good Education",
+      "description": "Education is a powerful tool that shapes individuals, societies, and the world at large. It is often said that education is the key to success, and this statement holds true on many levels. A good education goes beyond the classroom, textbooks, and examinations; it is a lifelong journey that empowers individuals and transforms communities. Here, we explore the profound impact of good education.",
+      "price": 199.99,
+      "text_color": "#FF444A",
+      "button_bg": "rgba(255, 68, 74, 0.20)",
+      "card_bg": "rgba(255, 68, 74, 0.15)"
+    },
+    {
+      "id" : 8,
+      "category": "Health",
+      "image": "https://i.ibb.co/KGznr4w/Health.png",
+      "title": "Clean Water For Children",
+      "description": "Good health is the foundation of a fulfilling life. It is a precious asset that allows us to enjoy each moment to the fullest. When we prioritize our health, we invest in our well-being, vitality, and longevity. It's a simple yet profound truth: good health is the key to a happier and more vibrant existence.",
+      "price": 49.99,
+      "text_color" : "#0052FF",
+      "button_bg": "rgba(0, 82, 255, 0.20)",
+      "card_bg": "rgba(0, 82, 255, 0.15)"
+    },
+    {
+      "id": 9,
+      "category": "Health",
+      "image": "https://i.ibb.co/KGznr4w/Health.png",
+      "title": "Clean Water For Children",
+      "description": "Good health is the foundation of a fulfilling life. It is a precious asset that allows us to enjoy each moment to the fullest. When we prioritize our health, we invest in our well-being, vitality, and longevity. It's a simple yet profound truth: good health is the key to a happier and more vibrant existence.",
+      "price": 49.99,
+      "text_color" : "#0052FF",
+      "button_bg": "rgba(0, 82, 255, 0.20)",
+      "card_bg": "rgba(0, 82, 255, 0.15)"
+    },
+    {
+      "id": 10,
+      "category": "Education",
+      "image": "https://i.ibb.co/k3CYjgm/Education.png",
+      "title": "Good Education",
+      "description": "Education is a powerful tool that shapes individuals, societies, and the world at large. It is often said that education is the key to success, and this statement holds true on many levels. A good education goes beyond the classroom, textbooks, and examinations; it is a lifelong journey that empowers individuals and transforms communities. Here, we explore the profound impact of good education.",
+      "price": 199.99,
+      "text_color": "#FF444A",
+      "button_bg": "rgba(255, 68, 74, 0.20)",
+      "card_bg": "rgba(255, 68, 74, 0.15)"
+    },
+    {
+      "id": 11,
+      "category": "Clothing",
+      "image": "https://i.ibb.co/xg6BWZL/Clothing.png",
+      "title": "Used Clothing Drive",
+      "description": "Clothing is more than just fabric draped on our bodies; it's a form of self-expression. From the simplest t-shirt to the most elegant gown, what we wear tells a story about who we are and how we want to be seen. Beyond style, clothing provides comfort, protection, and warmth, making it an essential part of our daily lives. In its essence, clothing is a reflection of our individuality and a testament to our creativity, allowing us to communicate without words.",
+      "price": 129.99,
+      "text_color": "#79C23F",
+      "button_bg": "rgba(121, 194, 63, 0.20)",
+      "card_bg" : "rgba(121, 194, 63, 0.15)"
+    },
+    {
+      "id": 12,
+      "category": "Food",
+      "image": "https://i.ibb.co/JKbw2y9/Food.png",
+      "title": "Better Food for Everyone",
+      "description": "Food is the sustenance of life, fulfilling not only our physical needs but also nurturing our souls. It's a universal language that brings people together, transcending borders and cultures. Beyond its role as fuel for our bodies, food is a source of joy, comfort, and celebration. Whether it's a home-cooked meal shared with loved ones or a culinary adventure exploring new flavors, food has the power to create memorable experiences. In its simplest form, food is a reminder of our shared humanity and the pleasure of being alive.",
+      "price": 19.99,
+      "text_color": "#F87147",
+      "button_bg": "rgba(248, 113, 71, 0.20)",
+      "card_bg": "rgba(248, 113, 71, 0.15)"
+    }
+  ]
+}

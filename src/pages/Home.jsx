@@ -19,9 +19,9 @@ const Home = () => {
 
   const handleSearch = (inputFieldValue) => {
     // console.log(event.target.value)    
-    const searchedCategories = categories.filter(c=> (c.category).toString().toLowerCase() ==inputFieldValue )
+    const searchedCategories = categories.filter(c=> (c.category).toString().toLowerCase() ==inputFieldValue.toString().toLowerCase() )
 
-    setCategories( searchedCategories )
+    setCategories( searchedCategories );
   }
 
   return (

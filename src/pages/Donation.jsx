@@ -26,7 +26,7 @@ const Donation = () => {
   return (
     <>
       {
-        noDataFound ? (<p className="h-[80vh] flex justify-center items-center">{noDataFound}</p>)
+        noDataFound ? (<p className="h-[80vh] flex justify-center items-center text-2xl">No data found! Please add some donations</p>)
           : (
             <div>
               {
